@@ -4,5 +4,4 @@ begin
 	values ('Clinton', 'Boamah'),
 		   ('Jessica','Boahemaa'), 
 		   ('Jason', 'Don');
-
 end

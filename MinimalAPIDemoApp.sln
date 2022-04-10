@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPIDemo", "MinimalAP
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "UserDB", "UserDB\UserDB.sqlproj", "{49FA3864-9E0D-4129-BFEA-9B354E7F58DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{A8AB57C2-1910-4005-8409-EC74715C72D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{49FA3864-9E0D-4129-BFEA-9B354E7F58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49FA3864-9E0D-4129-BFEA-9B354E7F58DF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{49FA3864-9E0D-4129-BFEA-9B354E7F58DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A8AB57C2-1910-4005-8409-EC74715C72D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AB57C2-1910-4005-8409-EC74715C72D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AB57C2-1910-4005-8409-EC74715C72D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AB57C2-1910-4005-8409-EC74715C72D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
